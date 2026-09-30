@@ -38,6 +38,11 @@ used for real footage. Choose Webcam / Upload video for live YOLOv10 detection.
 
 ![demo](docs/demo.png)
 
+## Screenshots
+
+### Alert log with timestamped evidence
+![Alert log](docs/alerts_table.png)
+
 ## Final build: low light + low-power devices
 - **Performance profiles** (sidebar): Low power (imgsz 320, detect every 3rd frame), Balanced, Accurate.
 - **Low-light enhancement**: dark frames are auto-brightened (gamma + CLAHE); detection confidence is relaxed slightly.
