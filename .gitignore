@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+evidence/
+*.pt
+.venv/
+
+*.mp4
